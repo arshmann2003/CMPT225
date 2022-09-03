@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/arshmann/Desktop/CMPT225/assignments/assignment 3'
+g++ -Wall -std=c++11 -o a3_driver a3_driver.cpp
+make: Leaving directory `/Users/arshmann/Desktop/CMPT225/assignments/assignment 3'
+ 

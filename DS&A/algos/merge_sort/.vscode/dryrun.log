@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/arshmann/Desktop/CMPT225/DS&A/algos/merge_sort'
+g++ -c mergeSort.cpp
+make: Leaving directory `/Users/arshmann/Desktop/CMPT225/DS&A/algos/merge_sort'
+ 

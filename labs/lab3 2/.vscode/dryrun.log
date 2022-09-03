@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/arshmann/Desktop/CMPT225/lab3 2'
+g++ -c -Wall -Wfatal-errors main.cpp
+g++ -c -Wall -Wfatal-errors Sequence.cpp
+g++ -o x -Wall -Wfatal-errors main.o Sequence.o
+make: Leaving directory `/Users/arshmann/Desktop/CMPT225/lab3 2'
+ 

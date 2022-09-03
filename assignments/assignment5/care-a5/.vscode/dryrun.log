@@ -1,0 +1,16 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/arshmann/Desktop/CMPT225/assignments/assignment5/care-a5'
+g++ -std=c++11 -c hashdemo.cpp
+g++ -std=c++11 -o hashdemo hashdemo.o
+g++ -std=c++11 -c pish.cpp
+g++ -std=c++11 -c Scanner.cpp
+g++ -std=c++11 -c Parse.cpp
+g++ -std=c++11 -o pish pish.o Scanner.o Parse.o
+g++ -std=c++11 -c setdemo.cpp
+g++ -std=c++11 -o setdemo setdemo.o
+g++ -std=c++11 -c testParse.cpp
+g++ -std=c++11 -o testParse testParse.o Scanner.o Parse.o
+g++ -std=c++11 -c testScanner.cpp
+g++ -std=c++11 -o testScanner testScanner.o Scanner.o
+make: Leaving directory `/Users/arshmann/Desktop/CMPT225/assignments/assignment5/care-a5'
+ 

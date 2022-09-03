@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/arshmann/Desktop/CMPT225/labs/lab4/part2'
+g++ -c -Wall main.cpp
+g++ -o x -Wall main.o
+make: Leaving directory `/Users/arshmann/Desktop/CMPT225/labs/lab4/part2'
+ 

@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/arshmann/Desktop/CMPT225/assignments/assignment5/care-a5/a5tests/hash_test'
+make: Leaving directory `/Users/arshmann/Desktop/CMPT225/assignments/assignment5/care-a5/a5tests/hash_test'
+ 
+make: *** No targets.  Stop.
+
